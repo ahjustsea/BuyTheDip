@@ -15,6 +15,7 @@ Current cryptocurrency prices are fetched from coingecko API every 20 minutes. Z
 
 If you would like to support BuyTheDip, you can make a donation below. Any support is greatly appreciated. Especially becuase I have a PhD in something practically useless and I really need all the help I can get. Thank you!
 
+
 Donations
 
 BTC: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
