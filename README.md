@@ -21,7 +21,7 @@ BTC: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
 
 ETH: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
 
-ADA: addr1q8wczd5ff4wvkxh98crrgvk4p87y88tgvcf68ufcs0e8e4wasymgjn2uevdw20sxxsed2z0ugwwksesn50cn3qlj0n2sek06pr
+ADA: Ae2tdPwUPEZMc9Jp6RVE4SfCKpQCQD4LMZKiSaoyCtSzTE5JNrZNrvBiyTT
 
 USDT: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
 
