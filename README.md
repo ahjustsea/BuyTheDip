@@ -16,10 +16,17 @@ Current cryptocurrency prices are fetched from coingecko API every 20 minutes. Z
 If you would like to support BuyTheDip, you can make a donation below. Any support is greatly appreciated. Especially becuase I have a PhD in something practically useless and I really need all the help I can get. Thank you!
 
 Donations
+
 BTC: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
+
 ETH: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
+
 ADA: addr1q8wczd5ff4wvkxh98crrgvk4p87y88tgvcf68ufcs0e8e4wasymgjn2uevdw20sxxsed2z0ugwwksesn50cn3qlj0n2sek06pr
+
 USDT: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
+
 XRP: rDkw7qyugKu6oBxe4B1HnUF39WpKRC59uT
+
 DOGE: DKwBg5xx946AMYrSQL1ZecGazetWHRe7Rs
+
 SHIB: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
