@@ -9,9 +9,9 @@ Current cryptocurrency prices are fetched from coingecko API every 20 minutes. Z
 
 Z-scores for each cryptocurrencies are calculated from trading volume-adjusted two-week moving averages and standard deviations. 
 
-1. Z-score greater than +2 means that the current price is significantly **HIGHER** than what's expected from the last two weeks. In this case, *you may consider ***selling*** some coins to take some profits*. If you're looking to buy at z-score > 2, you will be paying a premium.
+1. Z-score greater than **+2** means that the current price is significantly **HIGHER** than what's expected from the last two weeks. In this case, *you may consider ***selling*** some coins to take some profits*. If you're looking to buy at z-score > 2, you will be paying a premium.
 
-2. Z-score less than -2 means that the current price is significantly **LOWER** than what's expected from the last two weeks. In this case, *you may consider ***buying*** more coins as it is a good time to buy*, and prices may go back to norm. 
+2. Z-score less than **-2** means that the current price is significantly **LOWER** than what's expected from the last two weeks. In this case, *you may consider ***buying*** more coins as it is a good time to buy*, and prices may go back to norm. 
 
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
