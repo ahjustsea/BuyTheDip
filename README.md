@@ -5,7 +5,7 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 ## about z-scores
 Z-scores for each cryptocurrencies are calculated from trading volume-adjusted 14 day moving averages and standard deviations. 
 
-1. Z-score > +2 means that the current price is significantly HIGHER than what's expected from the last 14 days. In this case, you may consider selling some coins to take some profits. If you're looking to buy, you are paying a premium.
+1. Z-score > +2 means that the current price is significantly HIGHER than what's expected from the last 14 days. In this case, you may consider selling some coins to take some profits. If you're looking to buy at z-score > 2, you will be paying a premium.
 2. Z-score < -2 means that the current price is significantly LOWER than what's expected from the last 14 days. In this case, you may consider buying more coins as it is a good time to buy, and prices may go back to norm. 
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last 14 days. In other words, the price is fair. 
 
