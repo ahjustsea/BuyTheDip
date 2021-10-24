@@ -16,6 +16,12 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
 
+## future development/work-in-progress
+1. Website to view live z score action
+
+2. AI/ML based short-term predictions for z scores
+
+
 ## donations
 If you would like to support BuyTheDip, you can make a donation below. Any support is greatly appreciated. Thank you!
 
