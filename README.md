@@ -1,6 +1,6 @@
 # BuyTheDip
 
-BuyTheDip is a project made to help with crypto investing. It's purpose is to determine whether current prices are significantly/statistically lower (dips) or higher (peaks) than it has been in the last two weeks. Buying these dips and selling at these peaks will yield greater return on investment, though this algorithm cannot tell you if the price has stopped dipping or peaking. Whether you sell or not is entirely up to you, but a portfolio that buys at dips will definitely outperform a scheduled-time-purchases (e.g., DCA). 
+BuyTheDip is a project made to help with crypto investing. It's purpose is to determine whether current prices are significantly/statistically lower (dips) or higher (peaks) than it has been in the last two weeks. Buying these dips and selling at these peaks will yield greater return on investment. Whether you sell or not is entirely up to you, but a portfolio that buys at dips will definitely outperform a scheduled-time-purchases (e.g., DCA). 
 
 Current cryptocurrency prices are fetched from coingecko API every 20 minutes. Z-scores are posted every hour, and trends in z-scores are posted every other hour. However, when large dips/moons are happening, z > 2 or z < -2, the results are posted immediately. More coins/tokens can be added on demand. 
 
@@ -15,14 +15,18 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
+Note: This algorithm cannot tell you if the price has reached it's maximum dip or peak, but sustaining z scores greater than +3 or -3 for an extended period is highly unlikely (less than 0.003% chance).
+
 
 ## future development/work-in-progress
+
 1. Website to view live z score action
 
 2. AI/machined learning based short-term predictions for z scores
 
 
 ## donations
+
 If you would like to support BuyTheDip, you can make a donation below. Any support is greatly appreciated. Thank you!
 
 **BTC**: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
