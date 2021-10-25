@@ -20,7 +20,7 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 1. Website to view live z-score action
 
-2. AI/machined learning based short-term predictions for z-scores
+2. AI/machine learning based short-term predictions for z-scores
 
 
 ## donations
