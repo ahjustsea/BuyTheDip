@@ -25,7 +25,7 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 ## donations
 
-If you would like to support BuyTheDip, you can make a donation below. Any support is greatly appreciated. Thank you!
+If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
 **BTC**: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
 
