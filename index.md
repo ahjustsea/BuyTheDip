@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# BuyTheDip
 
-You can use the [editor on GitHub](https://github.com/ahjustsea/BuyTheDip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BuyTheDip is a project made to help with crypto investing. It's purpose is to determine whether current prices are significantly/statistically lower (dips) or higher (peaks) than it has been in the last two weeks. Buying these dips and selling at these peaks will yield greater return on investment. Whether you sell or not is entirely up to you, but a portfolio that buys at dips will definitely outperform a scheduled-time-purchases (e.g., DCA). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Current cryptocurrency prices are fetched from coingecko API every 20 minutes. Z-scores are posted every hour, and trends in z-scores are posted every other hour. However, when large dips/moons are happening, z > 2 or z < -2, the results are posted immediately. More coins/tokens can be added on demand. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## about z-scores
 
-```markdown
-Syntax highlighted code block
+Z-scores for each cryptocurrencies are calculated from trading volume-adjusted two-week moving averages and standard deviations. 
 
-# Header 1
-## Header 2
-### Header 3
+1. Z-score greater than **+2** means that the current price is significantly **HIGHER** than what's expected from the last two weeks. In this case, *you may consider ***selling*** some coins to take some profits* assuming that your average cost per coin is lower than the current price. If you're looking to buy at z-score > 2, you will be paying a premium.
 
-- Bulleted
-- List
+2. Z-score less than **-2** means that the current price is significantly **LOWER** than what's expected from the last two weeks. In this case, *you may consider ***buying*** more coins as it is a good time to buy*, and prices may go back to norm. 
 
-1. Numbered
-2. List
+3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## future development/work-in-progress
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Machine learning based short-term predictions for z-scores
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahjustsea/BuyTheDip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## donations
 
-### Support or Contact
+If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**BTC**: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
+
+**ETH**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
+
+**ADA**: Ae2tdPwUPEZMc9Jp6RVE4SfCKpQCQD4LMZKiSaoyCtSzTE5JNrZNrvBiyTT
+
+**SOL**: 8oETiSiMJhR1iMSPqWQDZ24qhToxfdBZHG5AP9Jfimv6
+
+**XLM**: GBC7BWLJ7LPGZGNSBOQQAGA4IQB3OINZ3WT7FHUQ3XRAWFJQC56X34XL
+
+**USDT**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
+
+**DOGE**: DKwBg5xx946AMYrSQL1ZecGazetWHRe7Rs
+
+**SHIB**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
+
+**r/cc MOON**: 0x1a5fce959e9e6574cba3893f9d3abcc127d8c82b
