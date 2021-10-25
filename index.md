@@ -14,7 +14,6 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
-Test-image:![alt text](https://imgur.com/Q80SapV)
 
 ## does it work?
 
