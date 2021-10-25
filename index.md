@@ -21,7 +21,7 @@ Yes, buying cryptos when z-scores are less than -2 or -3 can make you 6-20% addi
 
 ![alt text](https://ahjustsea.github.io/BuyTheDip/BuyTheDip.png)
 
-scenario |	n |	total_bitcoin |	total_fiat |	latest_price |	total_worth	gain |	gain_per
+scenario |	times purchased |	bitcoin |	total ivnested ($) |	current BTCUSD |	gain ($) |	gains(%)
 -----: | -----: | -----: | -----: | -----: | -----: | -----: 
 S1: |	Scheduled purchase ($100 every two weeks) |	77 |	0.8605088 |	$7,700.00 |	$60,000.00 |	$51,630.53 |	$43,930.53 |	570.5%
 S2: |	BuyTheDip @ z-score -2 |	1000 |	0.9195261 |	$7,700.00 |	$60,000.00 |	$55,171.56 |	$47,471.56 |	616.5%
