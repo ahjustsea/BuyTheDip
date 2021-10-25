@@ -16,12 +16,25 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
 
+## does it work?
+
+Yes, buying cryptos when z-scores are less than -2 or -3 can make you 6-20% additional returns on your investment. Detailed information on how BuyTheDip makes more returns on your investment can be found [here](https://ahjustsea.github.io/BuyTheDip/whythisworks)
+
+scenario |	times purchased |	bitcoin |	total ivnested ($) |	current BTCUSD |	portfolio ($) | profit ($) |	profit (%)
+-----: | -----: | -----: | -----: | -----: | -----: | -----: | -----:
+Scheduled purchase ($100 every two weeks; aka DCA) |	77 |	0.8605088 |	$7,700.00 |	$60,000.00 |	$51,630.53 |	$43,930.53 |	570.5%
+BuyTheDip @ z-score -2 |	1000 |	0.9195261 |	$7,700.00 |	$60,000.00 |	$55,171.56 |	$47,471.56 |	616.5%
+BuyTheDip @ z-score -3 |	139 |	1.0259890 |	$7,700.00 |	$60,000.00 |	$61,559.34 |	$53,859.34 |	699.5%
+
+![alt text](https://ahjustsea.github.io/BuyTheDip/BuyTheDip.png)
+
+
 ## future development/work-in-progress
 
 Machine learning based short-term predictions for z-scores
 
 
-## donations
+### donations
 
 If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
