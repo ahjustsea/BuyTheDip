@@ -32,6 +32,8 @@ BuyTheDip @ z-score -3 |	139 |	1.0259890 |	$7,700.00 |	$60,000.00 |	$61,559.34 |
 
 Machine learning based short-term predictions for z-scores
 
+Please feel free to reach out via twitter DM for questions and suggestions!
+
 
 ### donations
 
