@@ -37,8 +37,6 @@ If you would like to support BuyTheDip, you can make a donation below. I have a 
 
 **USDT**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
 
-**XRP**: rDkw7qyugKu6oBxe4B1HnUF39WpKRC59uT
-
 **DOGE**: DKwBg5xx946AMYrSQL1ZecGazetWHRe7Rs
 
 **SHIB**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
