@@ -38,7 +38,7 @@ Machine learning based short-term predictions for z-scores
 
 If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
-**BTC**: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn
+<sub><sup>**BTC**: bc1qcay52dwm8h7qugj4tkzjcg0wrzhqf9jsh62sgn</sub></sup>
 
 **ETH**: 0xA1e608C40C88B83e3325a9f25E0523BE8bC977d2
 
