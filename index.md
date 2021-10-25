@@ -16,7 +16,7 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 ## does it work?
 
-More information on how BuyTheDip makes more returns on your investment can be found [here](https://ahjustsea.github.io/BuyTheDip/whythisworks)
+Yes, buying cryptos when z-scores are less than -2 or -3 can make you 6-20% additional returns on your investment. Detailed information on how BuyTheDip makes more returns on your investment can be found [here](https://ahjustsea.github.io/BuyTheDip/whythisworks)
 
 ## future development/work-in-progress
 
