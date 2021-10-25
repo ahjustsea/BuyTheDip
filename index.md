@@ -14,11 +14,13 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
-![alt text](https://ahjustsea.github.io/BuyTheDip/BuyTheDip.png)
 
 ## does it work?
 
 Yes, buying cryptos when z-scores are less than -2 or -3 can make you 6-20% additional returns on your investment. Detailed information on how BuyTheDip makes more returns on your investment can be found [here](https://ahjustsea.github.io/BuyTheDip/whythisworks)
+
+![alt text](https://ahjustsea.github.io/BuyTheDip/BuyTheDip.png)
+
 
 ## future development/work-in-progress
 
