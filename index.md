@@ -20,7 +20,7 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 Machine learning based short-term predictions for z-scores
 
 
-## donations
+### donations
 
 If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
