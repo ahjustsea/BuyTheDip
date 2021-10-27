@@ -11,7 +11,7 @@ Mole [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is almost online. S
 Symbols currently supported: $BTC, $ETH, $DOGE, $SHIB, $BNB, $ADA, $XRP, $DOT, $SOL, $MATIC, $MOON
 
 
-## about z-scores
+## About z-scores
 
 Z-scores for each cryptocurrencies are calculated from trading volume-adjusted two-week moving averages and standard deviations. 
 
@@ -22,7 +22,7 @@ Z-scores for each cryptocurrencies are calculated from trading volume-adjusted t
 3. Z-score between +2 and -2 means that the current price is very similar to the average price of last two weeks. In other words, the price is **fair**. 
 
 
-## does it work?
+## Does it work?
 
 Yes, buying cryptos when z-scores are less than -2 or -3 can make you 6-20% additional returns on your investment. Detailed information on how BuyTheDip makes more on your investment can be found [here](https://ahjustsea.github.io/BuyTheDip/whythisworks)
 
@@ -35,14 +35,14 @@ BuyTheDip @ z-score -3 |	139 |	1.0259890 |	$7,700.00 |	$60,000.00 |	$61,559.34 |
 ![alt text](https://ahjustsea.github.io/BuyTheDip/BuyTheDip.png)
 
 
-## future development/work-in-progress
+## Future development/work-in-progress
 
 Machine learning based short-term predictions for z-scores
 
 Please feel free to reach out via twitter DM for questions and suggestions!
 
 
-### donations
+### Donations
 
 If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
 
