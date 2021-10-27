@@ -14,7 +14,7 @@ To use: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bi
 
 - **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
 - **Level 2 good dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
-- **Level 3 fine dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
+- **Level 3 great dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
 - **Level 4 exquisite dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
 - **Level 5 heavenly dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
 
