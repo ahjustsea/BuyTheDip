@@ -5,8 +5,8 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 1. Current cryptocurrency prices are fetched from coinmarketcap & coingecko API every 20 minutes. Z-scores are posted every hour unless when large dips/moons are happening, z > 2 or z < -2, the results are posted immediately. 
 2. 24-hour trends in z-scores are posted three times a day: 11:30am, 7:30pm and 3:30am EST.
 
-## Mole, The Connoisseur of Flavourful Dips (status = beta)
-Current status: **Mole** is NOT online. 
+## Mole, The Connoisseur of Flavourful Dips
+Current status: **Mole** is in beta. 
 
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. 
 
