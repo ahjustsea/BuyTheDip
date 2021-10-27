@@ -6,8 +6,10 @@ On Twitter [@bitcoindips](https://twitter.com/bitcoindips):
 2. 24-hour trends in z-scores are posted three times a day: 11:30am, 7:30pm and 3:30am EST.
 
 ## Mole, The Connoisseur of Flavourful Dips
-Mole [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is almost online. Stay tuned for documentation
+Mole [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is almost online. Stay tuned for documentation.
+
 Symbols currently supported: $BTC, $ETH, $DOGE, $SHIB, $BNB, $ADA, $XRP, $DOT, $SOL, $MATIC, $MOON
+
 
 ## about z-scores
 
