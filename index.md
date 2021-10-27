@@ -6,7 +6,7 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 2. 24-hour trends in z-scores are posted three times a day: 11:30am, 7:30pm and 3:30am EST.
 
 ## Mole, The Connoisseur of Flavourful Dips
-Current status: **Mole** is not online. 
+Current status: **Mole** is NOT online. 
 
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. 
 
