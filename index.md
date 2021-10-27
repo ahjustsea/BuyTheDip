@@ -12,11 +12,11 @@ Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bi
 
 To use: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bitcoindips !HeyMole $SYMBOL"***. For example, tweet ***"@bitcoindips !HeyMole $BTC"*** to get bitcoin suggestions. Mole should get back to you within 2 minutes, but sometimes Mole needs to sleep too =). 
 
-- **Level 1 dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
-- **Level 2 dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
-- **Level 3 dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
-- **Level 4 dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
-- **Level 5 dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
+- **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
+- **Level 2 good dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
+- **Level 3 fine dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
+- **Level 4 exquisite dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
+- **Level 5 heavenly dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
 
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
