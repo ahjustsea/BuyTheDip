@@ -18,7 +18,7 @@ Function 1: To get dip levels, tweet ***"@bitcoindips !HeyMole $SYMBOL"***. For 
 - **Level 4 exquisite dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
 - **Level 5 heavenly dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
 
-Function 2: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole whats good?"***. Mole will tell you what are good dips according to current z-scores.
+Function 2: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole whats good?"***. Mole will suggest what are currently good dips based on z-scores.
 
 #### Mole's notes:
 
