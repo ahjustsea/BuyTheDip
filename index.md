@@ -6,9 +6,16 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 2. 24-hour trends in z-scores are posted three times a day: 11:30am, 7:30pm and 3:30am EST.
 
 ## Mole, The Connoisseur of Flavourful Dips
-Mole [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is almost online. Stay tuned for documentation.
+Mole [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is almost online. 
 
-Symbols currently supported: $BTC, $ETH, $DOGE, $SHIB, $BNB, $ADA, $XRP, $DOT, $SOL, $MATIC, $MOON
+Going to bed? Stepping out for dinner? Kids crying their eyes out? Mole is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. To use: Tweet "@bitcoindips !HeyMole $SYMBOL". For example, for Bitcoin tweet "@bitcoindips !HeyMole $BTC". Mole should get back to you within 2 minutes, but sometimes Mole needs to sleep too. 
+- **Level 1 dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
+- **Level 2 dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
+- **Level 3 dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
+- **Level 4 dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
+- **Level 5 dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
+
+- $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
 
 ## About z-scores
