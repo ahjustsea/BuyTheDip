@@ -20,6 +20,8 @@ To use: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bi
 
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
+*Please be sensible towards calling Mole. In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
+
 
 ## About z-scores
 
