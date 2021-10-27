@@ -10,7 +10,7 @@ Current status: **Mole** is NOT online.
 
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. 
 
-To use: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bitcoindips !HeyMole $SYMBOL"***. For example, tweet ***"@bitcoindips !HeyMole $BTC"*** to get bitcoin suggestions. Mole should get back to you within 2 minutes, but sometimes Mole needs to sleep too =). 
+Function 1: To get dip levels: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bitcoindips !HeyMole $SYMBOL"***. For example, tweet ***"@bitcoindips !HeyMole $BTC"*** to get bitcoin suggestions. If you try calling more than one symbol, only the first will be used.
 
 - **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
 - **Level 2 good dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
@@ -18,9 +18,15 @@ To use: follow [@bitcoindips](https://twitter.com/bitcoindips) and tweet ***"@bi
 - **Level 4 exquisite dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
 - **Level 5 heavenly dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
 
-- $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
+Function 2: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole whats good?"***. Mole will tell you what are good dips according to current z-scores.
 
-*Please be sensible towards calling Mole. In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
+### Mole's notes:
+
+- $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
+- Mole should get back to you within 2 minutes, but sometimes Mole needs to sleep too =). 
+- To prevent some spam attacks, Mole will only respond to accounts with at least one follower. Sorry.
+- Why does one of the dips say "free"? It essential means that the price of the coin is so volatile (has seen such dramatic pumps and/or dips in the last two weeks) that if it ever reaches that level of dip, it's essentially crashed to zero. 
+- *Please be sensible towards calling Mole. In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
 
 
 ## About z-scores
