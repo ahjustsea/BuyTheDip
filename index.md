@@ -26,7 +26,7 @@ Function 2: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole w
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 - Mole should get back to you within 2 minutes, but sometimes Mole needs to sleep too =). 
 - To prevent some spam attacks, Mole will only respond to accounts with at least one follower. Sorry.
-- Why does one of the dips say "free"? It essential means that the price of the coin is so volatile (has seen such dramatic pumps and/or dips in the last two weeks) that if it ever reaches that level of dip, it's essentially crashed to zero. 
+- Why does one of the dips say "$free"? It essential means that the price of the coin is volatile (very dramatic pumps in the last two weeks). In this case, it means that if this crypto ever reaches that level of dip, it's essentially crashed to zero. 
 - *Please be sensible towards calling Mole. In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
 
 
