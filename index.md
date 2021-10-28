@@ -9,7 +9,7 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 Current status: **Mole** is in live beta. 
 Birthdate: Oct 27th, 2021.
 
-Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. For Mole to respond, you have to follow follow [@bitcoindips](https://twitter.com/bitcoindips).
+Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. For Mole to respond, you have to follow [@bitcoindips](https://twitter.com/bitcoindips).
 
 Function 1: To get dip levels, tweet ***"@bitcoindips !HeyMole $SYMBOL"***. For example, tweet ***"@bitcoindips !HeyMole $BTC"*** to get bitcoin suggestions. If you try calling more than one symbol, only the first will be used.
 
