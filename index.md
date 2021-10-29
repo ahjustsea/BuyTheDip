@@ -66,6 +66,11 @@ Machine learning based short-term predictions for z-scores
 Please feel free to reach out via twitter DM for questions and suggestions!
 
 
+## Reach out for suggestions
+
+You can find me on reddit (u/Ahjustsea) or on twitter (@bitcoinDips)
+
+
 ### Donations
 
 If you would like to support BuyTheDip, you can make a donation below. I have a PhD in something practically useless, so any support is greatly appreciated. Thank you!
