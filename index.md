@@ -11,7 +11,9 @@ Birthdate: Oct 27th, 2021.
 
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. For Mole to respond, you have to follow [@bitcoindips](https://twitter.com/bitcoindips).
 
-Function 1: To get dip levels, tweet ***"@bitcoindips !getdips $SYMBOL"***. 
+Function 1: To get dip levels, 
+  
+  tweet ***"@bitcoindips !getdips $SYMBOL"***. 
 
 For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions. If you try calling more than one symbol, only the first will be used.
 
@@ -22,7 +24,9 @@ For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions
 - **Level 5 heavenly dip** = **Fondue**. What the price (USD) would be if z-score dropped to **-5**.
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
-Function 2: ***(WARNING, ONLY FOR RISKY/AGGRESSIVE INVESTORS)*** To get dip levels that will fill sooner, tweet ***"@bitcoindips !getspicy $SYMBOL"***. 
+Function 2: ***(WARNING, ONLY FOR RISKY/AGGRESSIVE INVESTORS)*** To get dip levels that will fill sooner,
+
+  tweet ***"@bitcoindips !getspicy $SYMBOL"***. 
 
 This differs from the previous function in one aspect: Dips are calculated from current prices rather than moving day averages. These dips are risky in that *they're not statistically true dips*. To be used when you want to get on a coin that's trending up, but don't want to FOMO at sell order prices.  
 
@@ -33,7 +37,9 @@ This differs from the previous function in one aspect: Dips are calculated from 
 - **Level 5 very hot dip** = **Sambal**. What the price (USD) would be if z-score dropped to **-5**.
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
-Function 3: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole whats good?"***. 
+Function 3: To get suggestions on what to buy, 
+
+  tweet ***"@bitcoindips !HeyMole whats good?"***. 
 
 Mole will suggest what are currently good dips based on z-scores. Also works: "what's tasty?".
 
