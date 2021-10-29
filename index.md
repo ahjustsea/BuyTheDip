@@ -12,6 +12,7 @@ Birthdate: Oct 27th, 2021.
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. For Mole to respond, you have to follow [@bitcoindips](https://twitter.com/bitcoindips).
 
 Function 1: To get dip levels, tweet ***"@bitcoindips !getdips $SYMBOL"***. 
+
 For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions. If you try calling more than one symbol, only the first will be used.
 
 - **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
@@ -22,7 +23,9 @@ For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
 Function 2: To get suggestions on what to buy, tweet ***"@bitcoindips !HeyMole whats good?"***. 
+
 Mole will suggest what are currently good dips based on z-scores. Also works: "what's tasty?" "where's the heat?".
+
 
 #### Mole's notes:
 
