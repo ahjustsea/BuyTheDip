@@ -17,7 +17,7 @@ Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bi
 
 For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions. If you try calling more than one symbol, only the first will be used.
 
-- **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1.
+- **Level 1 favourless dip** = **Ketcup**. What the price (USD) would be if z-score dropped to **-1**.
 - **Level 2 good dip** = **Hummus**. What the price (USD) would be if z-score dropped to **-2**.
 - **Level 3 great dip** = **Tzatziki**. What the price (USD) would be if z-score dropped to **-3**.
 - **Level 4 exquisite dip** = **Guacamole**. What the price (USD) would be if z-score dropped to **-4**.
@@ -30,7 +30,7 @@ For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions
 
 This differs from the previous function in one aspect: Dips are calculated from current prices rather than moving day averages. These dips are risky in that *they're not statistically true dips*. To be used when you want to get on a coin that's trending up, but don't want to FOMO at sell order prices.  
 
-- **Level 1 barely any spice dip** = **Ajvar**. What the price (USD) would be if z-score dropped to **-1.
+- **Level 1 barely any spice dip** = **Ajvar**. What the price (USD) would be if z-score dropped to **-1**.
 - **Level 2 mild spice dip** = **Cajun**. What the price (USD) would be if z-score dropped to **-2**.
 - **Level 3 medium dip** = **Tabasco**. What the price (USD) would be if z-score dropped to **-3**.
 - **Level 4 hot dip** = **Jerk**. What the price (USD) would be if z-score dropped to **-4**.
