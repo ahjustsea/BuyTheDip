@@ -30,11 +30,11 @@ For example, tweet ***"@bitcoindips !getdips $BTC"*** to get bitcoin suggestions
 
 This differs from the previous function in one aspect: Dips are calculated from current prices rather than moving day averages. These dips are risky in that *they're not statistically true dips*. To be used when you want to get on a coin that's trending up, but don't want to FOMO at sell order prices.  
 
-- **Level 1 barely any spice dip** = **Ajvar**. What the price (USD) would be if z-score dropped to **-1**.
-- **Level 2 mild spice dip** = **Cajun**. What the price (USD) would be if z-score dropped to **-2**.
-- **Level 3 medium dip** = **Tabasco**. What the price (USD) would be if z-score dropped to **-3**.
-- **Level 4 hot dip** = **Jerk**. What the price (USD) would be if z-score dropped to **-4**.
-- **Level 5 very hot dip** = **Sambal**. What the price (USD) would be if z-score dropped to **-5**.
+- **Level 1 barely any spice dip** = **Ajvar**. What the price (USD) would be if z-score dropped to **-1** from current prices.
+- **Level 2 mild spice dip** = **Cajun**. What the price (USD) would be if z-score dropped to **-1.5** from current prices.
+- **Level 3 medium dip** = **Tabasco**. What the price (USD) would be if z-score dropped to **-2** from current prices.
+- **Level 4 hot dip** = **Jerk**. What the price (USD) would be if z-score dropped to **-2.5** from current prices.
+- **Level 5 very hot dip** = **Sambal**. What the price (USD) would be if z-score dropped to **-3** from current prices.
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
 ### Function 3: To get suggestions on what to buy, 
