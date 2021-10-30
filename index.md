@@ -58,6 +58,10 @@ Mole will suggest what are currently good dips based on z-scores. Also works: "w
 
 - **Why does one of the dips say "$zero"?** It essential means that the price of the coin is volatile (very dramatic pumps in the last two weeks). In this case, it means that if this crypto ever reaches that level of dip, it's essentially crashed to zero. 
 
+- **Mole cannot reply to protected tweets!**. In this case, please change your twitter settings to access Mole.
+
+![alt text](https://ahjustsea.github.io/BuyTheDip/molecantreply.jpeg){width: 200px}
+
 - **I did everything right and Mole still hasn't answered!** To prevent some spam attacks, Mole will only respond to accounts with at least one follower (Sorry). Or something has gone wrong. Please let me know!
 
 - **Please be sensible towards calling Mole.** In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
