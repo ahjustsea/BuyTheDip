@@ -53,9 +53,13 @@ Mole will suggest what are currently good dips based on z-scores. Also works: "w
 ### Mole's Q&A:
 
 - **How long does Mole take to answer?** Mole should get back to you within 2 minutes. If not, please let Mole know so errors can be tracked down and fixed!
-- **Why are Mole's suggestions really low?** This happens when the crypto has pumped significantly in the last two weeks (and could be still pumping), so statistically significant dips are soooo far away. Hmmm it's best not to FOMO, but it's up to you. 
+
+- **Why are Mole's suggestions really low?** This happens when the crypto has pumped significantly in the last two weeks (and could be still pumping), so statistically significant dips are soooo far away. In this case, you may try $getspicy instead of $getdips. As stated in the warning above, it's pretty aggressive. But it's up to you. 
+
 - **Why does one of the dips say "$zero"?** It essential means that the price of the coin is volatile (very dramatic pumps in the last two weeks). In this case, it means that if this crypto ever reaches that level of dip, it's essentially crashed to zero. 
+
 - **I did everything right and Mole still hasn't answered!** To prevent some spam attacks, Mole will only respond to accounts with at least one follower (Sorry). Or something has gone wrong. Please let me know!
+
 - **Please be sensible towards calling Mole.** In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
 
 
