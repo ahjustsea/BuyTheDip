@@ -44,7 +44,7 @@ This differs from the previous function in one aspect: Dips are calculated from 
 Mole will suggest what are currently good dips based on z-scores. Also works: "what's tasty?".
 
 
-#### Mole's Q&A:
+### Mole's Q&A:
 
 - **How long does Mole take to answer?** Mole should get back to you within 2 minutes. If not, please let Mole know so errors can be tracked down and fixed!
 - **Why are Mole's suggestions really low?** This happens when the crypto has pumped significantly in the last two weeks (and could be still pumping), so statistically significant dips are soooo far away. Hmmm it's best not to FOMO, but it's up to you. 
