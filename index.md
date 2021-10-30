@@ -11,6 +11,10 @@ Birthdate: Oct 27th, 2021.
 
 Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bitcoindipsMole](https://twitter.com/bitcoindipsMole) is here to help! Mole gives suggestions for limit buys based on z-scores so that you can catch large dips while you are away from the computer. For Mole to respond, you have to follow [@bitcoindips](https://twitter.com/bitcoindips).
 
+
+![alt text](https://ahjustsea.github.io/BuyTheDip/ToCallMole.png)
+
+
 ### Function 1: To get dip levels, 
   
 - tweet ***"@bitcoindips !getdips $SYMBOL"***. 
