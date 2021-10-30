@@ -60,9 +60,6 @@ Mole will suggest what are currently good dips based on z-scores. Also works: "w
 
 - **Mole cannot reply to protected tweets!**. In this case, please change your twitter settings to access Mole.
 
-<img src="https://ahjustsea.github.io/BuyTheDip/molecantreply.jpeg" width="400" />
-
-
 - **I did everything right and Mole still hasn't answered!** To prevent some spam attacks, Mole will only respond to accounts with at least one follower (Sorry). Or something has gone wrong. Please let me know!
 
 - **Please be sensible towards calling Mole.** In the best case scenario, Mole will slow down and crash. In the worst case, Mole will get banned from Twitter.*
