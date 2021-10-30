@@ -37,7 +37,7 @@ This differs from the previous function in one aspect: Dips are calculated from 
 - **Level 5 very hot dip** = **Sambal**. What the price (USD) would be if z-score dropped to **-3** from current prices.
 - $SYMBOLS currently supported: **$BTC**, **$ETH**, **$DOGE**, **$SHIB**, **$BNB**, **$ADA**, **$XRP**, **$DOT**, **$SOL**, **$MATIC**, **$MOON**
 
-### Function 3: To get suggestions on what to buy, 
+### Function 3: To get suggestions on what's dipping, 
 
 - tweet ***"@bitcoindips !HeyMole whats good?"***. 
 
