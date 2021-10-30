@@ -11,6 +11,7 @@ BuyTheDip is a project made to help with crypto investing. It's purpose is to de
 ![alt text](https://ahjustsea.github.io/BuyTheDip/z-score_last24hours.gif)
 
 
+
 ## Mole, The Connoisseur of Flavourful Dips
 Current status: **Mole** is in live beta. 
 Birthdate: Oct 27th, 2021.
